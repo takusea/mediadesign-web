@@ -274,6 +274,7 @@ iframe {
   background-color: var(--c-back-primary);
   padding: 16px;
   border-radius: 8px;
+  margin-bottom: 16px;
 }
 
 .tips-title {
